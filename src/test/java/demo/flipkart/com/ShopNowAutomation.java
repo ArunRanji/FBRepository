@@ -53,6 +53,7 @@ public class ShopNowAutomation {
 		} finally {
 			// Cleanup
 			driver.quit();
+			System.out.println("This code is inserted from github repository");
 		}
 	}
 }
